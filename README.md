@@ -1,8 +1,8 @@
-# zmk-config for RMI-KB
+# Andrea ZMK Config Repo
 
-This is a repository for RMI-KB keyboards that use ZMK.
+This is a repository for Andrea keyboard - a wireless ergo keyboard in collaboration with The Keyboard Spa.
 
-## Andrea
+## Editing a keymap
 
 1) Edit the `andrea.keymap` file to change your keymap.
 
